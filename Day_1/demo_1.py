@@ -45,3 +45,12 @@ def display_data():
         print(f"{key}: {value}")
     print("\nScores:")
     print(scores)
+# From GitHub 1
+# From GitHub 2
+# From GitHub 3
+
+
+
+
+
+
