@@ -8,6 +8,10 @@ def add(a, b):
 def subtract(a, b):
     """Return the difference of a and b."""
     return a - b
+    
+def subtract_01(a, b):
+    """Return the difference of a and b."""
+    return a - b
 
 def multiply(a, b):
     """Return the product of a and b."""
@@ -49,6 +53,10 @@ def display_data():
 # From GitHub 2
 # From GitHub 3
 
+# From github ui
+# From github ui
+# From github ui
+# From github ui
 
 
 
