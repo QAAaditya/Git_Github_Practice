@@ -69,3 +69,12 @@ for key, value in student.items():
 words = ["python", "git", "branch", "merge"]
 word_lengths = {word: len(word) for word in words}
 print("\nWord Lengths Dictionary:", word_lengths)
+
+
+def from_branch_3():
+    pass
+
+# From branch 3
+# FROM BRANCH 3
+# This is a change made in branch 3 to demonstrate Git branching.
+
