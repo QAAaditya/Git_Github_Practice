@@ -7,4 +7,5 @@ def calculator(a, b):
     """
     sum = a+b
     sub = a-b
-    return sum , sub
+    mul = a*b
+    return sum , sub ,mul
