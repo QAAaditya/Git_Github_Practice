@@ -8,4 +8,5 @@ def calculator(a, b):
     sum = a+b
     sub = a-b
     mul = a*b
-    return sum , sub ,mul
+    div = a/b
+    return sum , sub ,mul,div
